@@ -58,10 +58,3 @@ Meu nome é Vitor Gerino Filho, tenho 56 anos e sou natural do Estado de São Pa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-
-**"Em Andamento!"**
