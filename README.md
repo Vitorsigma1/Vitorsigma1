@@ -58,17 +58,3 @@ Meu nome é Vitor Gerino Filho, tenho 56 anos e sou natural do Estado de São Pa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-
-## Estatísticas
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsigma1&theme=transparent" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorsigma1&theme=transparent" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorsigma1&theme=transparent" width="49%" />
-
-</div>
-
-
